@@ -1,0 +1,31 @@
+_repo: Scotch-Loch-Fishing_26072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Senior, William
+    aliases:
+    - Black Palmer
+    - Hardy, Uncle
+    - Senior, W. (William)
+    - Red Spinner
+    birthdate: 1838
+    deathdate: 1920
+    gutenberg_agent_id: '25810'
+    url: http://www.gutenberg.org/2009/agents/25810
+description: ''
+gutenberg_issued: '2008-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing -- Scotland'
+- !lcc 'SH'
+title: Scotch Loch-Fishing
+url: http://www.gutenberg.org/ebooks/26072
